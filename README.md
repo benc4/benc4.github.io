@@ -1,2 +1,7 @@
-# benc4.github.io
-ePortfolio for Computer Science Capstone
+# Ben Cobble - Computer Science Capstone ePortfolio
+
+## Coming Soon
+
+- Self-Assessment
+- Code Review Videos
+- Enhanced Artifacts

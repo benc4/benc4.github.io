@@ -1,10 +1,5 @@
 # Ben Cobble - Computer Science Capstone ePortfolio
 
-## Coming Soon
-
-- Self-Assessment
-- Enhanced Artifacts
-
 ## Code Review
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vuXT4BF3GIU?si=aH08aeQ_p4I0o0eT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -53,3 +48,8 @@ The process of adding Hilt was also a learning experience for me. It took a lot 
 	A challenge I faced was managing memory with the trie data structure. To avoid memory leaks, I had to write the destructor to handle cleanup for each node. I couldn’t use automatic cleanup or just destroy the root node because each node is created with a raw pointer, meaning removing a parent node would break the connection to child nodes and cause a leak. After some iterating and research, I was able to develop a recursive destructor that clears nodes from the leaves upward and verifies nothing is left before completing.
   </p>
 </details>
+
+## Coming Soon
+
+- Database Enhancement & Narrative
+- Self-Assessment

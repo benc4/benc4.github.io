@@ -1,10 +1,14 @@
 # Ben Cobble - Computer Science Capstone ePortfolio
 
 ## Self-Assessment
+<details>
+	<summary>Self-assessment</summary>
 <p>Throughout my work in this Capstone course, I have been able to showcase my skills in software engineering and design, data structures and algorithms, and databases as I worked towards the completion of the ePortfolio. I have built these skills throughout my years in this program, but this course has really made me consider how these skills align with the course outcomes and my endeavors in my future career as a whole in the field of Computer Science. I started the Computer Science program with limited knowledge of coding, designing applications, and overall thinking like a programmer. I started with Python, learning the basics of data structures, variables, loops, etc., and I am now in a position where I have completed a software engineering internship and can design and build complex applications with a team and with a focus on structure, efficiency, and security.</p>
 	
 <p>The way I approach developing software has changed for the better throughout my time in the program. In my early Computer Science courses, I wrote software that met requirements for my coursework but did not go beyond the assignments. Courses like CS 210 Programming Languages and CS 255 System Analysis and Design introduced concepts to me that changed my approach. The most important things I learned were designing and thinking about architecture before development, separating code into reusable and testable components, and documenting code so that it can be maintained by other engineers. Another part of the puzzle was my CS 320 Software Testing, Automation, and Quality Assurance course, which made me realize the importance of writing tests, and specifically, making testing a part of the design and development process and not an afterthought. I was able to use these concepts in my internship at Amazon in a production codebase where the ramifications of not using these best practices affect many users rather than just resulting in a bad grade on an assignment.</p>
 
+<details>
+	<summary>Read more</summary>
 <p>These courses also strengthened my skills in collaboration and communication with stakeholders, which I also applied in my internship. The CS 250 Software Development Lifecycle course introduced the development lifecycles and methodologies that real teams use for collaboration on projects. Knowing the concepts of the Agile framework helped me get settled into my role quicker and practicing them on a real team reinforced them and helped me further develop those skills. A course that significantly helped me develop my skills in communicating with stakeholders was CS 230 Operating Platforms. The final project was a design document for an app that made me fully consider and write about the requirements, design constraints, architecture, class relationships, and tradeoffs for different platforms, and had me make recommendations about these findings. Although it was a difficult project, it built my skills in thinking through the design of a project in its entirety and evaluating the best options.</p>
 
 <p>I built skills in security through CS 305 Software Security, which taught me to anticipate and prevent vulnerabilities and how to check for existing vulnerabilities in applications. It taught me about industry standard best practices for designing with a security mindset. In the final project, I went through the full process of interpreting vulnerabilities in an application, addressing them by making the code more secure, and testing the results. This is something I have been able to apply in my professional experience as well as the InventoryTracker application that I will be showcasing in this portfolio.</p>
@@ -21,6 +25,8 @@
 
 <p>These artifacts and their narratives, along with the code review video demonstrate the skills I have developed throughout my time in the Computer Science program and show how I think and work as a software engineer.</p>
 
+</details>
+</details>
 
 ## Code Review
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vuXT4BF3GIU?si=aH08aeQ_p4I0o0eT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -76,4 +82,3 @@
 ## Coming Soon
 
 - Database Enhancement & Narrative
-- Self-Assessment
